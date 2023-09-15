@@ -1,0 +1,24 @@
+Git is a version control system(VCS)
+####Advantages of GIT
+Keeps record of your changes
+Allows for colloborative development
+Allows you to know who made changes and when
+Allows you to revert changes 
+##Types of version Control
+1. Local
+- saved on local computer
+- only on single user
+2. Centralized
+- Centralized repo/Master server
+- no local copy
+- only the code on master server
+- unable to write code if the master server is not reachable
+3. Distributed
+- Main server repo/local copy
+- Developers can continue to write the code even if centralized repo is not reachable.
+
+##Version Control System
+GIT
+bitbucket
+mercurial
+subversion.
