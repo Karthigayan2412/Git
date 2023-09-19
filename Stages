@@ -8,3 +8,11 @@ git status
 - show current stages to repository
 git log
 - show commit history
+
+GIT DIFF Commands
+git diff 
+ - compare changes of working directory with staging area
+git diff --staged
+ - compare changes of staging area with repository
+git diff HEAD
+ - compare changes of working directory with repository
