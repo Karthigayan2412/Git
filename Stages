@@ -1,8 +1,8 @@
 git init .
 - Initalize the repo directory
-git add
+git add (file name) or .(all files)
  - add files into staging area
-git commit
+git commit -m "comment" 
 - add changes to local vcs
 git status
 - show current stages to repository
