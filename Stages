@@ -1,0 +1,10 @@
+git init .
+- Initalize the repo directory
+git add
+ - add files into staging area
+git commit
+- add changes to local vcs
+git status
+- show current stages to repository
+git log
+- show commit history
