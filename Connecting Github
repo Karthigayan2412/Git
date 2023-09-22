@@ -26,4 +26,17 @@ Map local repo with remote repository.
 create a repo in github
 there will be a file named config in local repo under .git
 now push the files to Github
-git remote add origin "git
+git remote add origin "git" - local repo will get associated to github.
+which can be verifed from config file.
+git push origin master
+
+Example: create a new repository on the command line
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main - This can be ignored
+git remote add origin git@github.com:Karthigayan2412/filename.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin git@github.com:Karthigayan2412/CI-CD.git
+git push -u origin main
