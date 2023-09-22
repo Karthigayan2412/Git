@@ -1,0 +1,29 @@
+Multiple Developer
+- If multiple developer pushing the code in github. Some times code will get rejected due to commit.
+Push Code:
+git clone file.git
+modify the required file
+git add file_name
+git commit -m "File Modified"
+git push origin master(require gitbub credentials)
+- code will get pushed to github repository
+
+// Git Clone vs Git pull
+Git Clone
+ - will get the entire file of repository
+git pull
+ - pull the files which are modified in git repository
+
+Connecting to github using https and ssh
+
+Map local repo with remote repository.
+- create a local repo
+ - git init .
+ - Create the required files
+ - git add .
+ - git commit -m "Files created"
+(files will be in staging workspace)
+create a repo in github
+there will be a file named config in local repo under .git
+now push the files to Github
+git remote add origin "git
