@@ -29,3 +29,10 @@ Pull request from Github
 -
 - Source - Base
 - Destinaton - Compare
+
+Tags:
+-
+- Select the git & there is a option named tags.
+- Select the tag and create a release
+- choose a tag
+- Publish release
