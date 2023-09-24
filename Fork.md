@@ -31,3 +31,6 @@ git push origin v1.0
 git tag -a v1.1 "Commited the change" -m
 git log
 git push origin v1.1
+
+Pro account required to use Branch protection
+-
