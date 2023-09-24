@@ -32,3 +32,12 @@ git merge test
 git status
 
 git checkout -b 'branch name' - which create a branch and switch to branch as well.
+
+Branch Creation
+-
+Create a new branch in github just type in branch box.
+once branch is created switch to default branch to newly created branch
+generally, master will be default
+change the default branch to newly created branch, delete the master branch if not required.
+
+
