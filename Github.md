@@ -24,3 +24,8 @@ Push code on to remote repository.
 - git commit -m " description"  - will add to your local repositry
 - git push origin master(add the files to your shared repository)
 git status
+
+Pull request from Github
+-
+Source - Base
+Destinaton - Compare
