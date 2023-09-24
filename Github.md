@@ -27,5 +27,5 @@ git status
 
 Pull request from Github
 -
-Source - Base
-Destinaton - Compare
+- Source - Base
+- Destinaton - Compare
